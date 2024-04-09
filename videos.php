@@ -194,7 +194,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 								<div class="playIcon"></div>
-								<img class="elastic" src="img\sagor\vijay.jpg" alt="Nagarbaul James live">
+								<img class="elastic" src="img\sagor\vijaya.jpg" alt="Nagarbaul James live">
 							</div>	    							    
 								<div class="title">vijay Antony Music</div>
 								<div>31st night 2024 | ECR </div>
@@ -207,7 +207,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 						 		<div class="playIcon"></div>
-								<img class="elastic" src="img\sagor\baccu1.jpg" alt="Last live concert of Ayub Bachchu at Rangpur">
+								<img class="elastic" src="img\sagor\illayaraja.jpg" alt="Last live concert of Ayub Bachchu at Rangpur">
 							</div>
 							<div class="title">ilayaraja Conecert at Nehru Stadium</div>
 							<div>July 15, 2023</div>
@@ -220,7 +220,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 						 		<div class="playIcon"></div>
-								<img class="elastic" src="img\sagor\warfaze1.jpg" alt="Warfaze Concert">
+								<img class="elastic" src="img\sagor\pradeep.jpg" alt="Warfaze Concert">
 							</div>
 							<div class="title">Pradeep Kumar concert at Besant nagar</div>
 							<div>July 15, 2024</div>
