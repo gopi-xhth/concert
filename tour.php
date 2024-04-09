@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>COLDPLAY</title>
+	<title>Madras Music</title>
   <?php include "session.php";?>
 	<?php require_once "bootstrap.php";?>
   <?php require_once "bootstrap1.php";?>
