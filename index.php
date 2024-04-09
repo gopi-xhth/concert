@@ -173,7 +173,7 @@ button.big {
     ?>
 	<div class="hero-container w-container">
       
-      <h1 class="hero-heading" style="background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent;" >WELCOME TO GREAT GIRIKELAN MUSIC SHOW</h1>
+      <h1 class="hero-heading" style="background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent;" >WELCOME TO GREAT Madras Melodies MUSIC SHOW</h1>
       <a class="big button w-button" href="tour.php">Watch us live</a>
     </div>
 
