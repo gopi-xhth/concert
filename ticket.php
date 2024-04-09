@@ -120,7 +120,7 @@ body{
 </style>
 <body>
 <?php require_once "navbar.php";?>
-<h1 style="text-align: center; font-family: sans-serif; background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">COLDPLAY</h1>
+<h1 style="text-align: center; font-family: sans-serif; background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">The Ticket Tango</h1>
 <div class="container" style="padding-top: 5%;">
     <div class="row">
         <div class="col-md-4"></div>
@@ -133,7 +133,7 @@ body{
                     <div class="row display-tr" >
                         <h3 class="panel-title display-td" >Payment Details</h3>
                         <div class="display-td" >                            
-                            <img class="img-responsive pull-right" src="http://i76.imgup.net/accepted_c22e0.png">
+                            <img class="img-responsive pull-right" src="img/credit-card.png">
                         </div>
                     </div>                    
                 </div>

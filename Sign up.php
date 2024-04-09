@@ -1,5 +1,5 @@
 <?php
-$connect_mysql=mysqli_connect("localhost","root","","cse480");
+$connect_mysql=mysqli_connect("localhost","root","","signup");
 
 echo("Hello");
 

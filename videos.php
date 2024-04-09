@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>COLDPLAY</title>
+	<title>concert video</title>
 	<?php include "session.php";?>
 	<?php require_once "bootstrap.php";?>
 	<?php require_once "bootstrap1.php";?>
@@ -194,7 +194,7 @@ body {
 						    <div class="videoThumbImage">
 								<div class="hover"></div>
 								<div class="playIcon"></div>
-								<img class="elastic" src="img\sagor\james1.jpg" alt="Nagarbaul James live">
+								<img class="elastic" src="img\sagor\vijay.jpg" alt="Nagarbaul James live">
 							</div>	    							    
 								<div class="title">vijay Antony Music</div>
 								<div>31st night 2024 | ECR </div>

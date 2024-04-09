@@ -36,13 +36,7 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`name`, `mail`, `password`) VALUES
-('Nishant', 'nishant@gmail.com', 'Nishant@12'),
-('priyank', 'priyank88@gmail.com', 'Pk@123456'),
-('Priyank Kanani', 'priyank@gmail.com', 'Pk@123456'),
-('priyan', 'priyankk@gmail.com', 'pk@12345'),
-('Sahil Ganeriwal', 'sahilganeriwal@hotmail.com', 'S@hil2726'),
-('vipul', 'vipulnagpal51@gmail.com', 'Vi$jgsvd4');
+GRANT ALL PRIVILEGES ON signup.* TO 'root'@'localhost';
 
 --
 -- Indexes for dumped tables
