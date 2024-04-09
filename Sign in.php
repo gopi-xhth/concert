@@ -3,7 +3,7 @@
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MUSIC SHOW</title>
+<title>MUSIC-SHOW</title>
 <?php require_once "bootstrap1.php";?>
 <style>
 a {
