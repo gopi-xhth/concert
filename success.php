@@ -20,7 +20,7 @@ a {
 }
 body {
 
-	background-image: url(img/back3.png);
+	background-image: url(img/success.jpg);
     background-size: cover;
     overflow: scroll;
     background-repeat: no-repeat;

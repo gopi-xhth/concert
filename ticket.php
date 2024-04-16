@@ -104,7 +104,7 @@ body {
     width: 100%;
 }
 body{
-    background-image:url(img/back5.png); 
+    background-image:url(img/background2.jpg); 
     background-size: cover;
     height: 100vh;
     background-position: 0px 0px, 50% 50%;

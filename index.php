@@ -43,7 +43,7 @@
     width: 100%;
 }
 .hed{
-	background-image:url(img/back2.png); 
+	background-image:url(img/background.png); 
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -173,7 +173,7 @@ button.big {
     ?>
 	<div class="hero-container w-container">
       
-      <h1 class="hero-heading" style="background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: red;" >Madras Melodies Music Show</h1>
+      <h1 class="hero-heading" style="background: linear-gradient(to right,#E20D13, #F0E300, #A4C615, #4363AB,#BE4A94,#E30922);-webkit-background-clip: text;-webkit-text-fill-color: transparent ;" >Madras Melodies Music Show</h1>
       <a class="big button w-button" href="tour.php">Watch us live</a>
     </div>
 
